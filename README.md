@@ -21,4 +21,5 @@ atari games,
 nds games,
 shooters,
 doom,
-
+flipping game,
+ddr,
