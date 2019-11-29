@@ -5,6 +5,8 @@ This will be a collection of games I want to learn to code in javascriptz they w
 Rules: this is a peesonal challenge and self discovery, therfore, I will try not to use any external library, even if chess has being written. doesnt mean I cant try to recreate it.
 
 Game list:
+CHROME DINO GAME,
+
 Space invaders,
 hangman,
 pong,
